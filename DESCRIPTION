@@ -1,0 +1,13 @@
+Package: DataHandler
+Title: Data Cleaning and Handling
+Version: 0.0.0.9000
+Authors@R: person("Kyle", "Loomis", email = "loomi104@umn.edu", role = c("aut", "cre"))
+Description: Automate process for cleaning and manipulating data. 
+             Manipulate time series data with TTR package to create
+             predictive inputs for quantitative models. Has functionality 
+             to store data in CSV files. 
+Depends: R (>= 3.4.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
